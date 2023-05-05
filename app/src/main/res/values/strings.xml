@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="error_input_count">Введите корректное число</string>
+    <string name="error_input_name">Введите корректное название</string>
+</resources>
